@@ -1,7 +1,6 @@
-streamlit==1.38.0
-joblib==1.4.2
-pandas==2.2.2
-nltk==3.8.1
-scikit-learn==1.5.1
-xgboost==2.0.3
-gdown==5.2.0
+streamlit
+nltk
+scikit-learn
+joblib
+pandas
+
